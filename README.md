@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I’m Jose Cuadra
+I’m just a developer who’s been solving the impossible lately, and I love the challenge.
 
 <!--
 **cuadra/cuadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
