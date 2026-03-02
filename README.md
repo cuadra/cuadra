@@ -1,21 +1,21 @@
-## 👋 Hi, I’m Jose Cuadra
+## 👋 Hi, I’m Jose
 I’m just a developer who’s been solving the impossible lately, and I love the challenge.
 
 
 
-### Shortcuts
+### Current Projects
 
-| Project | What it is | Link |
-|----------|-----------|------|
-| CSPLens | CSP Lens is a developer-focused Chrome extension for inspecting Content Security Policies. | [![CSPLens](https://img.shields.io/badge/CSPLens-Repo-blue)](https://github.com/cuadra/csplens) |
-| NodeFresh | Prepares AEM node path lists for replication by normalizing paths and removing invalid entries. | [![NodeFresh](https://img.shields.io/badge/NodeFresh-Repo-blue)](https://github.com/cuadra/nodefresh) |
-| Tokcss | Tool to convert design tokens into css variables | [![Tokcss](https://img.shields.io/badge/Tokcss-Repo-blue)](https://github.com/cuadra/tokcss) |
-| PimKit | React component that fetches NPI information and updates mapped states. | [![PimKit](https://img.shields.io/badge/PimKit-Repo-blue)](https://github.com/cuadra/pimkit) |
-| Hashbrowns | A CLI tool that adds content hashes to file names enabling reliable cache busting. | [![Hashbrowns](https://img.shields.io/badge/Hashbrowns-Repo-blue)](https://github.com/cuadra/hashbrowns) |
-| AfterParty | Lazy loading background images with IntersectionObserver | [![AfterParty](https://img.shields.io/badge/AfterParty-Repo-blue)](https://github.com/cuadra/afterparty) |
-| Scrutari | A method to compile a list of URLs based on robot files, sitemaps, and page crawling. | [![Scrutari](https://img.shields.io/badge/Scrutari-Repo-blue)](https://github.com/cuadra/scrutari) |
-| Onda | Audio Visualizer | [![Onda](https://img.shields.io/badge/Onda-Repo-blue)](https://github.com/cuadra/onda) |
-| Playground | Just experimenting | [![Playground](https://img.shields.io/badge/Playground-Repo-blue)](https://github.com/cuadra/playground) |
+[AfterParty](https://github.com/cuadra/afterparty) - Lazy loading background images with IntersectionObserver  
+[CSPLens](https://github.com/cuadra/csplens) - CSP Lens is a developer-focused Chrome extension for inspecting Content Security Policies.  
+[Hashbrowns](https://github.com/cuadra/hashbrowns) - A CLI tool that adds content hashes to file names enabling reliable cache busting.  
+[Lap](https://github.com/cuadra/lap) - A CLI time tracking tool  
+[MUDD](https://github.com/cuadra/mudd) - HTML to DOCX converter  
+[NodeFresh](https://github.com/cuadra/nodefresh) - Prepares AEM node path lists for replication by normalizing paths and removing invalid entries.  
+[Onda](https://github.com/cuadra/onda) - Audio Visualizer  
+[PimKit](https://github.com/cuadra/pimkit) - React component that fetches NPI information and updates mapped states.  
+[Playground](https://github.com/cuadra/playground) - Just experimenting  
+[Scrutari](https://github.com/cuadra/scrutari) - A method to compile a list of URLs based on robot files, sitemaps, and page crawling.  
+[Tokcss](https://github.com/cuadra/tokcss) - Tool to convert design tokens into css variables  
 
 
 
