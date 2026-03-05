@@ -3,7 +3,7 @@ I’m just a developer who’s been solving the impossible lately, and I love th
 
 
 
-## Current Projects
+## Projects
 
 ### 🧰 CLI Tools
 
@@ -68,18 +68,3 @@ Sandbox for rapid experimentation and prototyping.
 🔗 https://github.com/cuadra/playground  
 
 
-
-<!--
-**cuadra/cuadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
